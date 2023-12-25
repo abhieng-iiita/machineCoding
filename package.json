@@ -1,16 +1,19 @@
 {
-  "name": "tsConfig",
+  "name": "machine-coding-ts-config",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "license": "MIT",
   "scripts": {
-    "start": "ts-node src"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "ts-node": "^10.9.2",
-    "typescript": "^5.3.3"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhieng-iiita/machine-coding-ts-config.git"
   },
-  "devDependencies": {
-    "@types/node": "^20.10.5"
-  }
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhieng-iiita/machine-coding-ts-config/issues"
+  },
+  "homepage": "https://github.com/abhieng-iiita/machine-coding-ts-config#readme"
 }
